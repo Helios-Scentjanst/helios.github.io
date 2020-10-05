@@ -7,6 +7,5 @@ Vi har många års erfarenhet från gästspelande teaterföreställningar både 
 
 ## Priser
 *alla priser är exklusive moms*
-
-**Scenmästare** 400kr /timme
-**Bärhjälp** 300kr /timme
++ **Scenmästare** 400kr /timme
++ **Bärhjälp** 300kr /timme
