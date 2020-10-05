@@ -22,3 +22,6 @@ Har du ett större evenemang och vill ha hjälp med allt runtomkring? Vi har fol
 + **Utrustning** offert
 
 Kontakta oss så berättar vi mer, är det så att du vill ha ett längre samarbete med oss kan vi självfallet räkna på en rabatt till dig.
+
+## Kontakt
+Vi inväntar just nu att hemsidan ska bli klar innan vi lämnar ut några kontaktuppgifter. Men återkom inom kort.
