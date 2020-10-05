@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 logo: 'helios-logo-f.svg'
 copyright_text: '2020 Helios Scentjänst Ekonomisk Förening'
+title: 'Helios'
+
+github:
+  is_project_page: false
