@@ -47,3 +47,5 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+
+theme: jekyll-theme-minimal
