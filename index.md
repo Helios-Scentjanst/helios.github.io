@@ -14,8 +14,8 @@ Har du ett större evenemang och vill ha hjälp med allt runtomkring? Vi har fol
 
 ## Priser
 *alla priser är exklusive moms*
-+ **Scenmästare** 500kr /timme
-+ **Bärhjälp** 300kr /timme
++ **Scenmästare** Extra 200kr /timme
++ **Bärhjälp** 350kr /timme
 + **Ljustekniker** offert
 + **Evenemangsplanering** offert
 + **Ljudtekniker** offert
